@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+I just started coding, so stay tuned! 
+
+
 <!--
 **NadineGrosskreuz/NadineGrosskreuz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
