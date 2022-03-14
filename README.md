@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I just started coding, so stay tuned! 
+I am a student at neue fische and just started coding, so stay tuned! 
 
 
 <!--
