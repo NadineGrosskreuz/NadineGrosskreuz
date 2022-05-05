@@ -4,9 +4,9 @@ I am a student at neue fische 🐠 and just started coding. So stay tuned and jo
 
 My favourite topics:
 
-💜 Design
-🧡 User Experience
-💛 Usability
+- 💜 Design
+- 🧡 User Experience
+- 💛 Usability
 
 
 
