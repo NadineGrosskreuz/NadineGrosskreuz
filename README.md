@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-I am a student at neue fische 🐠 and just started coding.   
-So stay tuned and join me on my way from event manager to web developer!
+Join me on my way from event manager to web developer!
 
 My favourite topics:
 
